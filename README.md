@@ -11,11 +11,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
-- [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook) — <!-- add PR link + one-line description -->
-<!-- Uncomment as PRs land:
-- [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation) — fix for Calendar.nextDate hang with weekOfMonth 0 (#2313)
-- [ml-explore/mlx-swift-lm](https://github.com/ml-explore/mlx-swift-lm) — fix for BertConfiguration id2label crash (#677)
--->
+- [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042) — fix: scroll to the selected node when the path changes (merged)
 
 #### Writing
 
