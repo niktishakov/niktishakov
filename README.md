@@ -11,6 +11,10 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
+- [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation): three `Calendar` bug fixes (in review)
+  - [#2318](https://github.com/swiftlang/swift-foundation/pull/2318): a hang of several minutes when matching `weekOfMonth` 0
+  - [#2319](https://github.com/swiftlang/swift-foundation/pull/2319): the wrong quarter for the last day of a quarter
+  - [#2321](https://github.com/swiftlang/swift-foundation/pull/2321): backward searches that skip or miss matches
 - [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042) — fix: scroll to the selected node when the path changes (merged)
 
 #### Writing
