@@ -12,7 +12,13 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 #### Open source
 
 - [why-foundation](https://github.com/niktishakov/why-foundation): finds which dependencies pull the full Foundation into an Android or Linux Swift build
+- **swiftlang/swift-foundation**: Calendar fixes
+  - [#2318](https://github.com/swiftlang/swift-foundation/pull/2318) `nextDate` hang when matching weekOfMonth 0
+  - [#2319](https://github.com/swiftlang/swift-foundation/pull/2319) wrong quarter on the last day of a quarter
+  - [#2321](https://github.com/swiftlang/swift-foundation/pull/2321) backward `nextDate` searches skipping matches
+- **swiftlang/swift-package-manager** [#10694](https://github.com/swiftlang/swift-package-manager/pull/10694): bundle privacy manifests only on Apple platforms with Swift Build
 - [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node when the path changes (merged)
+
 
 #### Writing
 
