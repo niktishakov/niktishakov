@@ -1,41 +1,30 @@
 ### Hi, I'm Nik 👋
 
-Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I build fintech and Web3 apps (trading terminals, non-custodial MPC wallets, white-label banking) and consumer apps with **400K+ combined installs**.
+Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I build fintech apps and consumer apps, and lately I work on making Swift a practical choice for Android.
 
 #### What I work on
 
-- **Fintech & Web3**: a spot and futures trading terminal with WebSocket streams, a non-custodial wallet on Fireblocks NCW (MPC) with WalletConnect, and a white-label banking platform with Keycloak/OIDC, passkeys and step-up MFA.
-- **Consumer apps**: CleanerApp AI in React Native + Expo (256K+ installs in its first 5 months, custom Swift native modules) and Instant AI Chat in Flutter (150K+ installs, 4.8★).
-- **Native iOS**: I built Pult, a SwiftUI smart-TV remote for 7 brands, with SSDP discovery and a unicast fallback.
-- **AI-first workflow**: CLI agents, custom MCP servers and skills, and AI-assisted code review, all in daily use.
+- **Fintech**: trading, crypto wallet and white-label banking apps, with real-time data and strong authentication.
+- **Consumer apps**: apps in React Native + Expo with custom Swift native modules, and in Flutter.
+- **Native iOS**: Pult, a SwiftUI smart-TV remote for 7 brands, with SSDP discovery and a unicast fallback.
+- **Swift on Android**: measuring and reducing what Swift and Foundation cost in an Android app.
 
 #### Open source
 
+- [why-foundation](https://github.com/niktishakov/why-foundation): finds which dependencies pull the full Foundation into an Android or Linux Swift build
+- [swiftlang/swift-package-manager#10694](https://github.com/swiftlang/swift-package-manager/pull/10694): only bundle privacy manifests on Apple platforms, so they no longer link Foundation on Android (in review)
 - [swiftlang/swift-foundation](https://github.com/swiftlang/swift-foundation): three `Calendar` bug fixes (in review)
   - [#2318](https://github.com/swiftlang/swift-foundation/pull/2318): a hang of several minutes when matching `weekOfMonth` 0
   - [#2319](https://github.com/swiftlang/swift-foundation/pull/2319): the wrong quarter for the last day of a quarter
   - [#2321](https://github.com/swiftlang/swift-foundation/pull/2321): backward searches that skip or miss matches
-- [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042) — fix: scroll to the selected node when the path changes (merged)
+- [swiftlang/swift#93320](https://github.com/swiftlang/swift/issues/93320): the Swift SDK for Android needs the C++ runtime from NDK r30
+- [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node when the path changes (merged)
 
 #### Writing
 
+- [Swift on Android in 2026: I Measured a Hello World](https://medium.com/@nik.tishakov/swift-on-android-in-2026-i-measured-a-hello-world-heres-how-production-ready-it-really-is-d69a66573e48)
+- [What's in the 34 MB of ICU data in lib_FoundationICU.so](https://forums.swift.org/t/whats-in-the-34-mb-of-icu-data-in-lib-foundationicu-so-and-what-can-be-removed/90098) (Swift Forums)
 - [We shipped the bug inside its own fix](https://medium.com/@nik.tishakov/we-shipped-the-bug-inside-its-own-fix-d7080e78d68f)
 - [Why does a Samsung TV reject an AirPlay video with error -11870?](https://medium.com/@nik.tishakov/why-does-a-samsung-tv-reject-an-airplay-video-with-error-11870-6488fca67729)
 
 More on [Medium](https://medium.com/@nik.tishakov) · Connect on [LinkedIn](https://www.linkedin.com/in/niktishakov)
-
-
-<!--
-**niktishakov/niktishakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
