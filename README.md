@@ -11,12 +11,15 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
+- **Swift on Android runtime**: a C++ exception bug in the Swift SDK for Android ([swiftlang/swift#93320](https://github.com/swiftlang/swift/issues/93320))
+  - [swiftlang/swift#93374](https://github.com/swiftlang/swift/pull/93374) don't link a second copy of libc++abi into the runtime (in review)
+  - [swiftlang/swift-foundation-icu#103](https://github.com/swiftlang/swift-foundation-icu/pull/103) don't export the static C++ runtime from ICU (in review)
 - [why-foundation](https://github.com/niktishakov/why-foundation): finds which dependencies pull the full Foundation into an Android or Linux Swift build
-- **swiftlang/swift-foundation**: Calendar fixes
+- **swiftlang/swift-foundation**: Calendar fixes (in review)
   - [#2318](https://github.com/swiftlang/swift-foundation/pull/2318) `nextDate` hang when matching weekOfMonth 0
   - [#2319](https://github.com/swiftlang/swift-foundation/pull/2319) wrong quarter on the last day of a quarter
   - [#2321](https://github.com/swiftlang/swift-foundation/pull/2321) backward `nextDate` searches skipping matches
-- **swiftlang/swift-package-manager** [#10694](https://github.com/swiftlang/swift-package-manager/pull/10694): bundle privacy manifests only on Apple platforms with Swift Build
+- **swiftlang/swift-package-manager** [#10694](https://github.com/swiftlang/swift-package-manager/pull/10694): bundle privacy manifests only on Apple platforms with Swift Build (in review)
 - [widgetbook/widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node when the path changes (merged)
 
 
