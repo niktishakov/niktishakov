@@ -11,15 +11,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
-In review unless marked merged.
-
-- **Swift on Android runtime** ([swift#93320](https://github.com/swiftlang/swift/issues/93320))
-  - [swift#93374](https://github.com/swiftlang/swift/pull/93374): one copy of libc++abi in the runtime
-  - [swift#93399](https://github.com/swiftlang/swift/pull/93399): shared C++ runtime for the corelibs
-- **Swift on Android CI**: [github-workflows#327](https://github.com/swiftlang/github-workflows/pull/327): run all test targets on the emulator
-- **swift-foundation** Calendar fixes: [#2318](https://github.com/swiftlang/swift-foundation/pull/2318), [#2319](https://github.com/swiftlang/swift-foundation/pull/2319), [#2321](https://github.com/swiftlang/swift-foundation/pull/2321)
-- **swift-package-manager** [#10694](https://github.com/swiftlang/swift-package-manager/pull/10694): privacy manifests only on Apple platforms
-- [widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node (merged)
+- [widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node
 
 #### Tools
 
