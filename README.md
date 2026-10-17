@@ -1,6 +1,6 @@
 ### Hi, I'm Nik 👋
 
-Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I build fintech apps and consumer apps, and lately I work on making Swift a practical choice for Android.
+Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I build fintech apps and consumer apps, and contribute to Swift open source.
 
 #### What I work on
 
