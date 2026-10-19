@@ -4,7 +4,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### What I work on
 
-- **Fintech**: trading, crypto wallet and white-label banking apps, with real-time data and strong authentication.
+- **Fintech**: trading, wallet and white-label banking apps, with real-time data and strong authentication.
 - **Consumer apps**: apps in React Native + Expo with custom Swift native modules, and in Flutter.
 - **Native iOS**: Pult, a SwiftUI smart-TV remote for 7 brands, with SSDP discovery and a unicast fallback.
 - **Swift on Android**: measuring and reducing what Swift and Foundation cost in an Android app.
