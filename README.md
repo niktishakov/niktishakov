@@ -11,6 +11,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
+- [swift-foundation#2360](https://github.com/swiftlang/swift-foundation/pull/2360): fix case-insensitive `range(of:)` for "ß" and "ﬁ"
 - [swift#93374](https://github.com/swiftlang/swift/pull/93374): don't link libc++abi statically into the Android runtime
 - [swift-metrics#251](https://github.com/apple/swift-metrics/pull/251): use FoundationEssentials in MetricsTestKit
 - [widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node
