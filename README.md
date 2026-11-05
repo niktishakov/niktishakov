@@ -11,6 +11,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
+- [swift#93743](https://github.com/swiftlang/swift/pull/93743): add `sys/system_properties.h` to the Android module
 - [github-workflows#327](https://github.com/swiftlang/github-workflows/pull/327): run every test runner in the Android emulator tests
 - [swift-foundation#2360](https://github.com/swiftlang/swift-foundation/pull/2360): fix case-insensitive `range(of:)` for "ß" and "ﬁ"
 - [swift#93374](https://github.com/swiftlang/swift/pull/93374): don't link libc++abi statically into the Android runtime
