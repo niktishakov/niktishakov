@@ -14,7 +14,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 **Swift on Android**
 
 - [swift-android-examples#56](https://github.com/swiftlang/swift-android-examples/pull/56): test the examples with Swift 6.4 on Ubuntu 26.04
-- [swift#94056](https://github.com/swiftlang/swift/pull/94056) ([6.4](https://github.com/swiftlang/swift/pull/94120)): link Dispatch with `-static-stdlib`
+- [swift#94056](https://github.com/swiftlang/swift/pull/94056) ([6.4](https://github.com/swiftlang/swift/pull/94120)): link Dispatch with `-static-stdlib` (APK 17.7 → 13.0 MB)
 - [swift#93399](https://github.com/swiftlang/swift/pull/93399): use the shared C++ runtime when cross-compiling the corelibs
 - [swift#93743](https://github.com/swiftlang/swift/pull/93743): add `sys/system_properties.h` to the Android module
 - [github-workflows#327](https://github.com/swiftlang/github-workflows/pull/327): run every test runner in the Android emulator tests
