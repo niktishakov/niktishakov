@@ -11,12 +11,28 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 #### Open source
 
-- [swift-nio-extras#331](https://github.com/apple/swift-nio-extras/pull/331): remove an unused Foundation import from NIOCertificateHelpers
+**Swift on Android**
+
+- [swift-android-examples#56](https://github.com/swiftlang/swift-android-examples/pull/56): test the examples with Swift 6.4 on Ubuntu 26.04
+- [swift#94056](https://github.com/swiftlang/swift/pull/94056) ([6.4](https://github.com/swiftlang/swift/pull/94120)): link Dispatch with `-static-stdlib`
+- [swift#93399](https://github.com/swiftlang/swift/pull/93399): use the shared C++ runtime when cross-compiling the corelibs
 - [swift#93743](https://github.com/swiftlang/swift/pull/93743): add `sys/system_properties.h` to the Android module
 - [github-workflows#327](https://github.com/swiftlang/github-workflows/pull/327): run every test runner in the Android emulator tests
-- [swift-foundation#2360](https://github.com/swiftlang/swift-foundation/pull/2360): fix case-insensitive `range(of:)` for "ß" and "ﬁ"
 - [swift#93374](https://github.com/swiftlang/swift/pull/93374): don't link libc++abi statically into the Android runtime
+
+**Foundation**
+
+- [swift-corelibs-foundation#5659](https://github.com/swiftlang/swift-corelibs-foundation/pull/5659): fix two tests that fail in GitHub Actions containers
+- [swift-foundation#2360](https://github.com/swiftlang/swift-foundation/pull/2360): fix case-insensitive `range(of:)` for "ß" and "ﬁ"
+
+**Less Foundation in packages**
+
+- [Factory#391](https://github.com/hmlongco/Factory/pull/391): use FoundationEssentials on Linux and Android
+- [swift-nio-extras#331](https://github.com/apple/swift-nio-extras/pull/331): remove an unused Foundation import from NIOCertificateHelpers
 - [swift-metrics#251](https://github.com/apple/swift-metrics/pull/251): use FoundationEssentials in MetricsTestKit
+
+**Other**
+
 - [widgetbook#2042](https://github.com/widgetbook/widgetbook/pull/2042): scroll to the selected node
 
 #### Tools
