@@ -22,6 +22,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 **Foundation**
 
+- [swift-foundation#2427](https://github.com/swiftlang/swift-foundation/pull/2427): add `trimmingCharacters(in:)` and `components(separatedBy:)` to FoundationEssentials
 - [swift-corelibs-foundation#5659](https://github.com/swiftlang/swift-corelibs-foundation/pull/5659): fix two tests that fail in GitHub Actions containers
 - [swift-foundation#2360](https://github.com/swiftlang/swift-foundation/pull/2360): fix case-insensitive `range(of:)` for "ß" and "ﬁ"
 
