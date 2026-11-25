@@ -19,6 +19,12 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 - [swift#93743](https://github.com/swiftlang/swift/pull/93743): add `sys/system_properties.h` to the Android module
 - [github-workflows#327](https://github.com/swiftlang/github-workflows/pull/327): run every test runner in the Android emulator tests
 - [swift#93374](https://github.com/swiftlang/swift/pull/93374): don't link libc++abi statically into the Android runtime
+- [swift#94061](https://github.com/swiftlang/swift/pull/94061): build the Runtime module for Android
+- [swift-corelibs-libdispatch#977](https://github.com/swiftlang/swift-corelibs-libdispatch/pull/977): handle EPOLLERR like EPOLLHUP on Linux and Android
+
+**Less Foundation in packages**
+
+- [Swinject#595](https://github.com/Swinject/Swinject/pull/595): use FoundationEssentials when available Первые две строки идут в раздел про Swift on Android, Swinject добавь в «Less Foundation in packages».
 
 **Foundation**
 
