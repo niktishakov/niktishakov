@@ -24,7 +24,7 @@ Lead mobile engineer with 8 years in **Flutter, React Native and Swift**. I buil
 
 **Less Foundation in packages**
 
-- [Swinject#595](https://github.com/Swinject/Swinject/pull/595): use FoundationEssentials when available Первые две строки идут в раздел про Swift on Android, Swinject добавь в «Less Foundation in packages».
+- [Swinject#595](https://github.com/Swinject/Swinject/pull/595): use FoundationEssentials when available.
 
 **Foundation**
 
